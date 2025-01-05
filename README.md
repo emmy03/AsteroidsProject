@@ -12,6 +12,3 @@ Le joueur contrôle un vaisseau spatial dans un univers rempli d'astéroïdes qu
 ## Lien vers mes autres projets
 Découvrez d'autres créations sur mon profil OpenProcessing :  
 👉 [Mon profil OpenProcessing](https://openprocessing.org/user/287762?view=sketches&o=33)
-
-## Auteur
-Emmy MARIE-JOSEPH
